@@ -2,7 +2,7 @@
 layout: cv
 title: Noah Arthur Rose
 ---
-# Brigham Young
+# Noah Arthur Rose
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
