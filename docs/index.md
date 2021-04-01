@@ -26,7 +26,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 Bachelor of Science
 >* Mathematical Science, Statistics Emphasis
 >* Researced usage of SIR models for modeling disease spread and estimating disease infectivity & efficacy of preventative measures such as quarantines and masks
-
+######  In some of your sentences you have "and" and & which I don't think are necessarily bad, but I would try and keep it consistent throughout each sentence or throughout the resume. ####
 ## Work Experience
 
 ### Data Science Lab Tutor / Coordinator
@@ -55,6 +55,8 @@ __Madison Fire Department__, Rexburg, ID
 >*	Microsoft Office
 >*	Mathematica
 >*	C++
+
+#### I would try not to name same skills that you already listed, ####
 
 
 ## Service
